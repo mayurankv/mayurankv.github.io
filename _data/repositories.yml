@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mayurankv
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mayurankv/Obsidian-Code-Styler
+  - mayurankv/Obsidian-MacOS-Vibrancy
+  - mayurankv/Spicetify-Audio-Visualiser
+  - mayurankv/Music-Widgets
+  - mayurankv/Transparent-Skim
+  - mayurankv/mayurankv
+  - mayurankv/mayurankv.github.io
